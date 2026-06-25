@@ -30,6 +30,25 @@
           }
         }
       ]
+    },
+    {
+      "name": "Active Image Helper",
+      "description": "Highlights the currently open image in the project image list with a distinct color, and adds right-click actions to scroll to or remove the current image.",
+      "author": "alexmpdx",
+      "homepage": "https://github.com/alexmpdx/qupath-extension-active-image-helper",
+      "starred": true,
+      "releases": [
+        {
+          "name": "v0.1.0",
+          "main_url": "https://github.com/alexmpdx/qupath-extension-active-image-helper/releases/download/v0.1.0/qupath-extension-active-image-helper-0.1.0.jar",
+          "javadoc_urls": [
+            "https://github.com/alexmpdx/qupath-extension-active-image-helper/releases/download/v0.1.0/qupath-extension-active-image-helper-0.1.0-javadoc.jar"
+          ],
+          "version_range": {
+            "min": "v0.7.0"
+          }
+        }
+      ]
     }
   ]
 }
