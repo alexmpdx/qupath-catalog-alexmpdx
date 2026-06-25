@@ -19,6 +19,7 @@ from *Extensions → Manage extensions*.
 | Extension | Description | Repo |
 | --- | --- | --- |
 | **Smooth Annotation** | Inkscape-style smoothing & simplification of annotation outlines (Bézier / Chaikin / Catmull-Rom) with corner preservation and a live preview. | [qupath-extension-smooth-annotation](https://github.com/alexmpdx/qupath-extension-smooth-annotation) |
+| **Active Image Helper** | Highlights the active image in the project list with a distinct color, and adds right-click actions to scroll to or remove the current image. | [qupath-extension-active-image-helper](https://github.com/alexmpdx/qupath-extension-active-image-helper) |
 
 ## Catalog format
 
